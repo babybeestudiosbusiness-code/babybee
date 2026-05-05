@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ff7a18;
+  --color-surface: #f7f9fc;
+}
+
+/* smooth scroll + header offset */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 110px;
+}
+
+body {
+  background: white;
+  color: #0f172a;
+  font-family: "Hind Siliguri", sans-serif;
+}
