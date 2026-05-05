@@ -134,7 +134,7 @@ export default function Footer() {
               <input type="hidden" name="_captcha" value="false" />
 
               {/* Redirect after submit */}
-              <input type="hidden" name="_next" value="http://localhost:5173" />
+              <input type="hidden" name="_next" value="https://babybee-agency.vercel.app" />
 
               <input
                 type="text"
